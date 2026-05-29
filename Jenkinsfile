@@ -35,7 +35,7 @@ pipeline {
                 sh '''
                 echo "===== TEST ====="
 
-                echo "Tests Passed"
+                echo "Integration Tests Passed"
                 '''
             }
         }
